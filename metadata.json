@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI",
+  "description": "From Citizen Voice to Infrastructure Impact - A full-stack civic infrastructure intelligence and citizen complaint ecosystem for BRICS nations with multimodal reporting, AI analysis, and government workflows.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
