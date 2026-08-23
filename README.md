@@ -1110,9 +1110,10 @@ CivicAI is developed as a hackathon project focused on using AI, cloud technolog
 
 ## CivicAI Team
 
-- **Jainil** — GitHub: https://github.com/jainil1910
-- **Rudra Rethaliya** — GitHub: [Your GitHub Profile]
-- **Team Member 3** — GitHub: [GitHub Profile]
+- **Jainil Patel** — GitHub: https://github.com/jainil1910
+- **Rudra Rethaliya** — GitHub: https://github.com/rudrarethaliya2603-beep
+- **Om Modi** — GitHub: [GitHub Profile]
+- **Yug Ragadwala** — GitHub: [GitHub Profile]
 
 ---
 
